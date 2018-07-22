@@ -1,11 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
-
 ### Overview
 The Converj app is a relationship manager built to streamline communication between event promoters and their guests. This is achieved via SMS, eliminating the need for guests to download software or visit a link to participate in its functionality. This is achieved via programmable SMS, courtesy of the Twilio API. This means that automated actions and responses are mapped by the promoter to do things such as subscribe, unsubscribe, RSVP, get a ticket link, get dates and times of upcoming events, etc. upon reception of pre-defined "commands" from a subscribed guest. For the sake of simplicity, these commands are presets that ship with the app and are built upon via updates and patches. The promoter may activate or deactivate the commands relevant to his/her consumer base, with the exception of subscribe and unsubscribe, which default to ON.
 ### Features
