@@ -12,14 +12,14 @@ The Converj app is a relationship manager built to streamline communication betw
 ### Technologies
 * Ruby on Rails (backend, API-only)
 * React.JS (Front-end)
-* PostgreSQL (Database)
+* SQLite (Database)
 * Heroku (Hosting)
 * Docker Compose (Continuous Deployment, push images to Heroku)
 
 ### What I'll Have to Learn
 * Ruby on Rails
 * React.JS
-* PostgreSQL
+* SQLite
 * Heroku
 * Docker Compose
 * Twilio API
